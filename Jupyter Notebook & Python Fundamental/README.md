@@ -12,7 +12,7 @@ To elaborate, thinking of the following situation, you can load local data in th
 <li> An Ipython file is regarded as presentation file.<br>
 You can add Markdown between your code or cell. It calls "Notebook" after all.
 
-# Table of Contents
+# Contents
 - <h3>Jupyter Notebook</h3>
 
   - 開啟Jupyter Notebook 方式
