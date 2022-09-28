@@ -1,11 +1,11 @@
 # A quick glance of Jupyter Notebook and Python
 
 Jupyter Notebook is a server-client application that allows you to edit your code through a web browser.<br>
-Some pros of coding Python on Jupyter Notebook list below.
+Some pros of coding Python on Jupyter Notebook are listed below.
 <li> Execute every single cells respectively.<br>
-In my opinion, this might be the best benefit of choosing Jupyter Notebook as your editor.<br>
+In my opinion, "run a portion of code" might be the best benefit of choosing Jupyter Notebook as your editor.<br>
 You are able to execute a portion code instead of whole part of code in your file and get the result of every single cell after you run the cell.<br>
-To elaborate, thinking of the following situation, you can load local data in the first cell, ploting your data on the figure in second cell, connecting database in tthe next cell, etc.<br>
+Thinking of the following situation, you can load local data in the first cell, ploting data on figure in second cell, connecting database in the next cell, and the results of each cell don't conflict to each others.<br>
   
 ![未命名](https://user-images.githubusercontent.com/23008522/191406268-1c12e983-8a12-4ce9-911a-61871190e16f.png)
 <li> Able to plot figure on web browser which some popular IDE don't support.
